@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/indiacovidtrack/static/css/main.db4624db.chunk.css",
+    "main.js": "/indiacovidtrack/static/js/main.004dd76e.chunk.js",
+    "main.js.map": "/indiacovidtrack/static/js/main.004dd76e.chunk.js.map",
+    "runtime-main.js": "/indiacovidtrack/static/js/runtime-main.c482ae00.js",
+    "runtime-main.js.map": "/indiacovidtrack/static/js/runtime-main.c482ae00.js.map",
+    "static/css/2.818011ed.chunk.css": "/indiacovidtrack/static/css/2.818011ed.chunk.css",
+    "static/js/2.dbf7e630.chunk.js": "/indiacovidtrack/static/js/2.dbf7e630.chunk.js",
+    "static/js/2.dbf7e630.chunk.js.map": "/indiacovidtrack/static/js/2.dbf7e630.chunk.js.map",
+    "static/js/3.9d260d86.chunk.js": "/indiacovidtrack/static/js/3.9d260d86.chunk.js",
+    "static/js/3.9d260d86.chunk.js.map": "/indiacovidtrack/static/js/3.9d260d86.chunk.js.map",
+    "index.html": "/indiacovidtrack/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/indiacovidtrack/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.db4624db.chunk.css.map": "/indiacovidtrack/static/css/main.db4624db.chunk.css.map",
+    "static/js/2.dbf7e630.chunk.js.LICENSE.txt": "/indiacovidtrack/static/js/2.dbf7e630.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c482ae00.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.dbf7e630.chunk.js",
+    "static/css/main.db4624db.chunk.css",
+    "static/js/main.004dd76e.chunk.js"
+  ]
+}
